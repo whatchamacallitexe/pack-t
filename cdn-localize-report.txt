@@ -1,0 +1,120 @@
+FILE galaga: https://fonts.googleapis.com/css2?family=Press+Start+2P&amp;display=swap -> ../_shared/b3879e552666-fonts-b3879e5526.css
+FILE galaga: https://cdn.jsdelivr.net/gh/bubbls/UGS-file-encryption@0b69ab72fb14b1eefde423a8d7f184016b84dbbc/Galaga%20(Europe).zip -> assets/cdn/fc275f81-Galaga_Europe_.zip
+FILE galaga: https://cdn.jsdelivr.net/gh/a456pur/seraph@81f551ca0aa8e3d6018d32d8ac5904ac9bc78f76/storage/emulatorjs/data/loader.js -> ../_shared/6515c3799bdb-loader.js
+FILE galaga: https://cdn.jsdelivr.net/gh/a456pur/seraph@ae2fcc6d6a9cd051654fcc0519080db1f79cf2a7/storage/js/cloak.js -> ../_shared/cccb2f51c2af-cloak.js
+FILE game-and-watch-collection: https://fonts.googleapis.com/css2?family=Press+Start+2P&amp;display=swap -> ../_shared/b3879e552666-fonts-b3879e5526.css
+FILE game-and-watch-collection: https://cdn.jsdelivr.net/gh/bubbls/UGS-file-encryption@c39521ba7e7523bc039606d7befe445d2929c916/Game%20%26%20Watch%20Gallery%20(USA)%20(SGB%20Enhanced).zip -> assets/cdn/7cd6d524-Game_Watch_Gallery_USA_SGB_Enhanced_.zip
+FILE game-and-watch-collection: https://cdn.jsdelivr.net/gh/a456pur/seraph@81f551ca0aa8e3d6018d32d8ac5904ac9bc78f76/storage/emulatorjs/data/loader.js -> ../_shared/6515c3799bdb-loader.js
+FILE game-and-watch-collection: https://cdn.jsdelivr.net/gh/a456pur/seraph@ae2fcc6d6a9cd051654fcc0519080db1f79cf2a7/storage/js/cloak.js -> ../_shared/cccb2f51c2af-cloak.js
+FAILED https://cdn.jsdelivr.net/gh/AndreajnRcm4/b398dl2h74v@9a23fbb2373d743a564873251cbb57736ebc1f73/style.css: curl: (22) The requested URL returned error: 403
+
+FILE gangsta-bean: https://cdn.jsdelivr.net/gh/u-cvlassrom-y/google@main/ruffle.js -> ../_shared/6fd5328a897b-ruffle.js
+FILE gangsta-bean: https://cdn.jsdelivr.net/gh/Stinkalistic/UGS@main/SWFs/gangstabean.swf -> assets/cdn/59c9d4a7-gangstabean.swf
+BASE OK Stinkalistic/UGS@main/SWFs/gb2 -> gangsta-bean-2
+BASE REWRITE gangsta-bean-2
+FAILED https://cdn.jsdelivr.net/gh/AndreajnRcm4/b398dl2h74v@9a23fbb2373d743a564873251cbb57736ebc1f73/style.css: curl: (22) The requested URL returned error: 403
+
+FILE gangsta-bean-2: https://cdn.jsdelivr.net/gh/u-cvlassrom-y/google@main/ruffle.js -> ../_shared/6fd5328a897b-ruffle.js
+FAILED https://cdn.jsdelivr.net/gh/AndreajnRcm4/b398dl2h74v@9a23fbb2373d743a564873251cbb57736ebc1f73/style.css: curl: (22) The requested URL returned error: 403
+
+FILE gangster-bros: https://cdn.jsdelivr.net/gh/u-cvlassrom-y/google@main/ruffle.js -> ../_shared/6fd5328a897b-ruffle.js
+FILE gangster-bros: https://cdn.jsdelivr.net/gh/Stinkalistic/Flash-games@main/487380_Gangster_Bros_1.1.swf -> ../_shared/7ba059ecdef8-487380_Gangster_Bros_1.1.swf
+BASE OK waycrosspublicmedia/maths@19a7910572966b9604b81bf6e9b85cacacc785ab/garcello -> garcello
+BASE REWRITE garcello
+FILE general-chaos: https://fonts.googleapis.com/css2?family=Press+Start+2P&amp;display=swap -> ../_shared/b3879e552666-fonts-b3879e5526.css
+FILE general-chaos: https://cdn.jsdelivr.net/gh/bubbls/UGS-file-encryption@82c7c7c58cf4dba166f789fdd2c57a3d07f7bce3/General%20Chaos%20(USA%2C%20Europe).zip -> assets/cdn/f46f85d9-General_Chaos_USA_Europe_.zip
+FILE general-chaos: https://cdn.jsdelivr.net/gh/a456pur/seraph@81f551ca0aa8e3d6018d32d8ac5904ac9bc78f76/storage/emulatorjs/data/loader.js -> ../_shared/6515c3799bdb-loader.js
+FILE general-chaos: https://cdn.jsdelivr.net/gh/a456pur/seraph@ae2fcc6d6a9cd051654fcc0519080db1f79cf2a7/storage/js/cloak.js -> ../_shared/cccb2f51c2af-cloak.js
+FILE get-on-top: https://cdn.jsdelivr.net/gh/GetOnTopUnblocked/GetOnTopUnblocked.github.io@693e592e4c9f1910a9b5ccc9c6624f8687e963e3/style.css -> assets/cdn/27f72171-style.css
+FILE get-on-top: https://cdn.jsdelivr.net/gh/GetOnTopUnblocked/GetOnTopUnblocked.github.io@693e592e4c9f1910a9b5ccc9c6624f8687e963e3/box2d.wasm.js -> assets/cdn/35bcd3fd-box2d.wasm.js
+FILE get-on-top: https://cdn.jsdelivr.net/gh/GetOnTopUnblocked/GetOnTopUnblocked.github.io@693e592e4c9f1910a9b5ccc9c6624f8687e963e3/scripts/supportcheck.js -> assets/cdn/72dd42a6-supportcheck.js
+FILE get-on-top: https://cdn.jsdelivr.net/gh/GetOnTopUnblocked/GetOnTopUnblocked.github.io@693e592e4c9f1910a9b5ccc9c6624f8687e963e3/scripts/offlineclient.js -> assets/cdn/b9548b4f-offlineclient.js
+FILE get-on-top: https://cdn.jsdelivr.net/gh/bobydob/godotpack@e46121e50d1e80597ca6d88776418185ceb449a2/side/got/main.js -> assets/cdn/a777c586-main.js
+FAILED https://cdn.jsdelivr.net/gh/GetOnTopUnblocked/GetOnTopUnblocked.github.io@693e592e4c9f1910a9b5ccc9c6624f8687e963e3/scripts/register-sw.js: curl: (22) The requested URL returned error: 404
+
+FILE getaway-shootout: https://cdn.jsdelivr.net/gh/lee2sman/everyday@d45d601d2c4d60adf809a0b677c00b7d12aba7e9/96/TemplateData/UnityProgress.js -> assets/cdn/1c97c589-UnityProgress.js
+FILE getaway-shootout: https://cdn.jsdelivr.net/gh/lordsofdank/GetawayShootout@9e99964c43638346680fce45d3b296408da61181/Build/UnityLoader.js -> assets/cdn/1c270d27-UnityLoader.js
+FILE getaway-shootout: https://cdn.jsdelivr.net/gh/lordsofdank/GetawayShootout@9e99964c43638346680fce45d3b296408da61181/Build/GetawayShootoutTwoPlayerGamesOrg.json -> assets/cdn/323ee229-GetawayShootoutTwoPlayerGamesOrg.json
+EMU OK genizy/emu@master cores=fceumm,gambatte,genesis_plus_gx,mednafen_psx,mgba,mupen64plus_next
+FAILED https://cdn.jsdelivr.net/gh/bubbls/ugss@722488a2c3737064a500385bb92f88b7b5f31988/Ghost%20Trick%20-%20Phantom%20Detective%20(USA)%20(En%2CFr%2CDe%2CEs%2CIt)/Ghost%20Trick%20-%20Phantom%20Detective%20(USA)%20(En%2CFr%2CDe%2CEs%2CIt).nds: curl: (22) The requested URL returned error: 404
+
+BASE OK bubbls/UGS-Assets@6a23ed7ae219e6566781b0d8486ed2b50b1ec20a/gimmie the airpod -> gimmie-the-airpod
+BASE REWRITE gimmie-the-airpod
+FAILED https://cdn.jsdelivr.net/gh/genizy/gh/patch/png/null.png: curl: (22) The requested URL returned error: 403
+
+FAILED https://cdn.jsdelivr.net/gh/genizy/gh/Build/Gladihoppers.json: curl: (22) The requested URL returned error: 403
+
+FILE glory-hunters: https://fonts.googleapis.com/css2?family=Press+Start+2P&amp;display=swap -> ../_shared/b3879e552666-fonts-b3879e5526.css
+FILE glory-hunters: https://cdn.jsdelivr.net/gh/Stinkalistic/junk@main/gloryhunters.gb -> assets/cdn/97d64600-gloryhunters.gb
+FILE glory-hunters: https://cdn.jsdelivr.net/gh/a456pur/seraph@81f551ca0aa8e3d6018d32d8ac5904ac9bc78f76/storage/emulatorjs/data/loader.js -> ../_shared/6515c3799bdb-loader.js
+FILE glover: https://fonts.googleapis.com/css2?family=Press+Start+2P&amp;display=swap -> ../_shared/b3879e552666-fonts-b3879e5526.css
+FILE glover: https://cdn.jsdelivr.net/gh/bubbls/UGS-file-encryption@a5636f3fc4cced4928e0298dd54f1dc371080c85/Glover%20(USA).zip -> assets/cdn/1687cb7e-Glover_USA_.zip
+FILE glover: https://cdn.jsdelivr.net/gh/a456pur/seraph@81f551ca0aa8e3d6018d32d8ac5904ac9bc78f76/storage/emulatorjs/data/loader.js -> ../_shared/6515c3799bdb-loader.js
+FILE glover: https://cdn.jsdelivr.net/gh/a456pur/seraph@ae2fcc6d6a9cd051654fcc0519080db1f79cf2a7/storage/js/cloak.js -> ../_shared/cccb2f51c2af-cloak.js
+FAILED https://cdn.jsdelivr.net/gh/AndreajnRcm4/b398dl2h74v@9a23fbb2373d743a564873251cbb57736ebc1f73/style.css: curl: (22) The requested URL returned error: 403
+
+FILE goal-south-africa: https://cdn.jsdelivr.net/gh/u-cvlassrom-y/google@main/ruffle.js -> ../_shared/6fd5328a897b-ruffle.js
+FILE goal-south-africa: https://cdn.jsdelivr.net/gh/bubbls/UGS-file-encryption@e54044be52f8f1c2b0173bbddc855012989fdec2/goal-south-africa-2010.swf -> ../_shared/69fbc78e95cc-goal-south-africa-2010.swf
+BASE OK genizy/fancade@main/gobble -> gobble
+BASE REWRITE gobble
+FILE golden-sun: https://fonts.googleapis.com/css2?family=Press+Start+2P&amp;display=swap -> ../_shared/b3879e552666-fonts-b3879e5526.css
+FILE golden-sun: https://cdn.jsdelivr.net/gh/a456pur/seraph@ae2fcc6d6a9cd051654fcc0519080db1f79cf2a7/games/goldensun/Golden%20Sun%20(USA%2C%20Europe).zip -> assets/cdn/f3bef85b-Golden_Sun_USA_Europe_.zip
+FILE golden-sun: https://cdn.jsdelivr.net/gh/a456pur/seraph@81f551ca0aa8e3d6018d32d8ac5904ac9bc78f76/storage/emulatorjs/data/loader.js -> ../_shared/6515c3799bdb-loader.js
+FILE goldeneye-007: https://fonts.googleapis.com/css2?family=Press+Start+2P&amp;display=swap -> ../_shared/b3879e552666-fonts-b3879e5526.css
+FILE goldeneye-007: https://cdn.jsdelivr.net/gh/a456pur/seraph@ae2fcc6d6a9cd051654fcc0519080db1f79cf2a7/games/goldeneye007/goldeneye.zip -> assets/cdn/dc1bedce-goldeneye.zip
+FILE goldeneye-007: https://cdn.jsdelivr.net/gh/a456pur/seraph@81f551ca0aa8e3d6018d32d8ac5904ac9bc78f76/storage/emulatorjs/data/loader.js -> ../_shared/6515c3799bdb-loader.js
+FILE goldeneye-007: https://cdn.jsdelivr.net/gh/a456pur/seraph@ae2fcc6d6a9cd051654fcc0519080db1f79cf2a7/storage/js/cloak.js -> ../_shared/cccb2f51c2af-cloak.js
+BASE OK bubbls/UGS-Assets@5b629b623e4bda43d0ea9671da8301b2bebfd3d7/golf orbit -> golf-orbit
+BASE REWRITE golf-orbit
+FILE good-boy-galaxy: https://fonts.googleapis.com/css2?family=Press+Start+2P&amp;display=swap -> ../_shared/b3879e552666-fonts-b3879e5526.css
+FILE good-boy-galaxy: https://cdn.jsdelivr.net/gh/Stinkalistic/junk@main/goodboy-galaxy-demo-gba.zip -> assets/cdn/9bb2b8c1-goodboy-galaxy-demo-gba.zip
+FILE good-boy-galaxy: https://cdn.jsdelivr.net/gh/a456pur/seraph@81f551ca0aa8e3d6018d32d8ac5904ac9bc78f76/storage/emulatorjs/data/loader.js -> ../_shared/6515c3799bdb-loader.js
+BASE OK genizy/google-doodles@40ec0a87ee9f32365afcf40edc257ae8afacde26/baseball -> google-baseball
+BASE REWRITE google-baseball
+FAILED https://cdn.jsdelivr.net/gh/6xgungmaster/loc@main/css/font-awesome.min.css: curl: (22) The requested URL returned error: 403
+
+FAILED https://cdn.jsdelivr.net/gh/6xgungmaster/loc@main/gorescript-deps.min.js: curl: (22) The requested URL returned error: 403
+
+FAILED https://cdn.jsdelivr.net/gh/6xgungmaster/loc@main/gorescript.min.js: curl: (22) The requested URL returned error: 403
+
+FAILED https://cdn.jsdelivr.net/gh/bubbls/ugss@943907cd0e3f7f47ade82d0b0032eba262a89c93/gran%20turismo%202/Gran%20Turismo%202%20(USA)%20(Arcade%20Mode).chd: curl: (22) The requested URL returned error: 404
+
+FILE gran-turismo-2: https://cdn.jsdelivr.net/gh/Abdess/retroarch_system@5f96368f6dbad5851cdb16a5041fefec4bdcd305/Sony%20-%20PlayStation/scph5501.bin -> assets/cdn/7e5c01d1-scph5501.bin
+FILE granny: https://cdn.jsdelivr.net/gh/bubbls/granny@212c543a85b243c4a0b92211f557e760d83d2292/TemplateData/style.css -> assets/cdn/7e40b0eb-style.css
+FILE granny: https://cdn.jsdelivr.net/gh/bubbls/granny@212c543a85b243c4a0b92211f557e760d83d2292/sdk.js -> assets/cdn/a57032dd-sdk.js
+FAILED https://cdn.jsdelivr.net/gh/testamalame/sef@main/sedk.js: curl: (22) The requested URL returned error: 404
+
+FAILED https://cdn.jsdelivr.net/gh/gru6nny/ohd@main/background.png: curl: (22) The requested URL returned error: 404
+
+FILE grey-box-testing: https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@6d958453467e85c9fe5701e3b33f2bd4402568c9/grey%20box%20testing/TemplateData/style.css -> assets/cdn/afaddf99-style.css
+FILE grey-box-testing: https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@6d958453467e85c9fe5701e3b33f2bd4402568c9/grey%20box%20testing/TemplateData/UnityProgress.js -> assets/cdn/4d998e17-UnityProgress.js
+FILE grey-box-testing: https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@6d958453467e85c9fe5701e3b33f2bd4402568c9/grey%20box%20testing/Build/UnityLoader.js -> assets/cdn/030cf6c5-UnityLoader.js
+FILE gta: https://fonts.googleapis.com/css2?family=Press+Start+2P&amp;display=swap -> ../_shared/b3879e552666-fonts-b3879e5526.css
+FILE gta: https://cdn.jsdelivr.net/gh/a456pur/seraph@81f551ca0aa8e3d6018d32d8ac5904ac9bc78f76/storage/emulatorjs/data/loader.js -> ../_shared/6515c3799bdb-loader.js
+FILE gta: https://cdn.jsdelivr.net/gh/a456pur/seraph@ae2fcc6d6a9cd051654fcc0519080db1f79cf2a7/storage/js/cloak.js -> ../_shared/cccb2f51c2af-cloak.js
+FILE gta-advance: https://fonts.googleapis.com/css2?family=Press+Start+2P&amp;display=swap -> ../_shared/b3879e552666-fonts-b3879e5526.css
+FILE gta-advance: https://cdn.jsdelivr.net/gh/mastercodewolf/cdn-gba@23d7b6c67ff8322cdbcea68af9cb33a1e8a6a104/Grand%20Theft%20Auto%20Advance%20(E)(Rising%20Sun).zip -> assets/cdn/3768db92-Grand_Theft_Auto_Advance_E_Rising_Sun_.zip
+FILE gta-advance: https://cdn.jsdelivr.net/gh/a456pur/seraph@81f551ca0aa8e3d6018d32d8ac5904ac9bc78f76/storage/emulatorjs/data/loader.js -> ../_shared/6515c3799bdb-loader.js
+FAILED https://cdn.jsdelivr.net/gh/AndreajnRcm4/b398dl2h74v@9a23fbb2373d743a564873251cbb57736ebc1f73/style.css: curl: (22) The requested URL returned error: 403
+
+FILE gun-mayhem: https://cdn.jsdelivr.net/gh/u-cvlassrom-y/google@main/ruffle.js -> ../_shared/6fd5328a897b-ruffle.js
+FILE gun-mayhem: https://cdn.jsdelivr.net/gh/UndercoverMoose/flashgames@6a11175e9c021f8359d626300aa73e16ef9c6ebd/games/gun-mayhem.swf -> ../_shared/551ffde91625-gun-mayhem.swf
+FAILED https://cdn.jsdelivr.net/gh/AndreajnRcm4/b398dl2h74v@9a23fbb2373d743a564873251cbb57736ebc1f73/style.css: curl: (22) The requested URL returned error: 403
+
+FILE gunblood: https://cdn.jsdelivr.net/gh/u-cvlassrom-y/google@main/ruffle.js -> ../_shared/6fd5328a897b-ruffle.js
+FILE gunblood: https://cdn.jsdelivr.net/gh/bubbls/UGS-file-encryption@1ca63c0d87da4b3a6eee410de92b8110f701a3e0/gunblood.swf -> assets/cdn/9c560c3c-gunblood.swf
+FILE gunknight: https://cdn.jsdelivr.net/gh/bubbls/ruffle@8fccef429b07533f958b60ec974dd76cada5a7bf/hunknight.js -> assets/cdn/82c2021e-hunknight.js
+FAILED https://cdn.jsdelivr.net/gh/AndreajnRcm4/b398dl2h74v@9a23fbb2373d743a564873251cbb57736ebc1f73/style.css: curl: (22) The requested URL returned error: 403
+
+FILE gunmayhem2-goof: https://cdn.jsdelivr.net/gh/u-cvlassrom-y/google@main/ruffle.js -> ../_shared/6fd5328a897b-ruffle.js
+FILE gunmayhem2-goof: https://cdn.jsdelivr.net/gh/supaub/interstellar-3@8a13c735e7df6d86602b354e45c090405f21f45a/play/flash/swf/gmayhem2.swf -> ../_shared/247250f1c542-gmayhem2.swf
+FILE gunnight: https://cdn.jsdelivr.net/gh/imactuallyhim/testmkl@0e10f90e9f214a5a1e2eaa074dc8ce4ba0efaa1d/gunnight/style.css -> assets/cdn/99717157-style.css
+FILE gunnight: https://cdn.jsdelivr.net/gh/imactuallyhim/testmkl@0e10f90e9f214a5a1e2eaa074dc8ce4ba0efaa1d/gunnight/photon-javascript_sdk.min.js -> assets/cdn/7439cd60-photon-javascript_sdk.min.js
+FILE gunnight: https://cdn.jsdelivr.net/gh/imactuallyhim/testmkl@0e10f90e9f214a5a1e2eaa074dc8ce4ba0efaa1d/gunnight/supportcheck.js -> assets/cdn/429f8838-supportcheck.js
+FILE gunnight: https://cdn.jsdelivr.net/gh/imactuallyhim/testmkl@0e10f90e9f214a5a1e2eaa074dc8ce4ba0efaa1d/gunnight/offlineclient.js -> assets/cdn/4b1d2d9d-offlineclient.js
+FILE gunnight: https://cdn.jsdelivr.net/gh/bobydob/godotpack@d7789561efa22fcf174d16b70481a57e39d54586/side/g-n/main.js -> assets/cdn/b95cbe88-main.js
+FILE gunnight: https://cdn.jsdelivr.net/gh/imactuallyhim/testmkl@0e10f90e9f214a5a1e2eaa074dc8ce4ba0efaa1d/gunnight/register-sw.js -> assets/cdn/d6522cdc-register-sw.js
+FILE gunsmoke: https://fonts.googleapis.com/css2?family=Press+Start+2P&amp;display=swap -> ../_shared/b3879e552666-fonts-b3879e5526.css
+FILE gunsmoke: https://cdn.jsdelivr.net/gh/bubbls/UGS-file-encryption@a31dd31b9c7eaa66dbe14cfb491a28c13f4a681a/Gun.Smoke%20(USA).zip -> assets/cdn/cd270b46-Gun.Smoke_USA_.zip
+FILE gunsmoke: https://cdn.jsdelivr.net/gh/a456pur/seraph@81f551ca0aa8e3d6018d32d8ac5904ac9bc78f76/storage/emulatorjs/data/loader.js -> ../_shared/6515c3799bdb-loader.js
+FILE gunsmoke: https://cdn.jsdelivr.net/gh/a456pur/seraph@ae2fcc6d6a9cd051654fcc0519080db1f79cf2a7/storage/js/cloak.js -> ../_shared/cccb2f51c2af-cloak.js
