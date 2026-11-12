@@ -14,16 +14,12 @@ FAILED https://cdn.jsdelivr.net/gh/genizy/gh/Build/Gladihoppers.json: curl: (22)
 
 FAILED https://cdn.jsdelivr.net/gh/AndreajnRcm4/b398dl2h74v@9a23fbb2373d743a564873251cbb57736ebc1f73/style.css: curl: (22) The requested URL returned error: 404
 
-FILE gorescript-classic: https://cdn.jsdelivr.net/gh/6xgungmaster/loc@main/css/font-awesome.min.css -> assets/cdn/3609e86a-font-awesome.min.css
-FILE gorescript-classic: https://cdn.jsdelivr.net/gh/6xgungmaster/loc@main/gorescript-deps.min.js -> assets/cdn/41a9cbd0-gorescript-deps.min.js
-FILE gorescript-classic: https://cdn.jsdelivr.net/gh/6xgungmaster/loc@main/gorescript.min.js -> assets/cdn/f165109b-gorescript.min.js
 FAILED https://cdn.jsdelivr.net/gh/bubbls/ugss@943907cd0e3f7f47ade82d0b0032eba262a89c93/gran%20turismo%202/Gran%20Turismo%202%20(USA)%20(Arcade%20Mode).chd: curl: (22) The requested URL returned error: 404
 
 FAILED https://cdn.jsdelivr.net/gh/testamalame/sef@main/sedk.js: curl: (22) The requested URL returned error: 404
 
 FAILED https://cdn.jsdelivr.net/gh/gru6nny/ohd@main/background.png: curl: (22) The requested URL returned error: 404
 
-FILE grey-box-testing: https://rawcdn.githack.com/bubbls/UGS-Assets/6d958453467e85c9fe5701e3b33f2bd4402568c9/grey%20box%20testing/Build/v0_1_5.json -> assets/cdn/82a9eb30-v0_1_5.json
 SKIP size 621.5MB https://bbcdn.githack.com/helloitadmin/smart/raw/main/Grand%20Theft%20Auto%20(USA).zip
 FAILED https://cdn.jsdelivr.net/gh/AndreajnRcm4/b398dl2h74v@9a23fbb2373d743a564873251cbb57736ebc1f73/style.css: curl: (22) The requested URL returned error: 404
 
